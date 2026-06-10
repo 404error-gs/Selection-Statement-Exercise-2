@@ -1,0 +1,14 @@
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\bin\Debug\net9.0\Selection-Statemets-Exercise-2.exe
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\bin\Debug\net9.0\Selection-Statemets-Exercise-2.deps.json
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\bin\Debug\net9.0\Selection-Statemets-Exercise-2.runtimeconfig.json
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\bin\Debug\net9.0\Selection-Statemets-Exercise-2.dll
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\bin\Debug\net9.0\Selection-Statemets-Exercise-2.pdb
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.AssemblyInfoInputs.cache
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.AssemblyInfo.cs
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.csproj.CoreCompileInputs.cache
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.dll
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\refint\Selection-Statemets-Exercise-2.dll
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.pdb
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\Selection-Statemets-Exercise-2.genruntimeconfig.cache
+C:\Users\genesis11\Desktop\repos\Selection-Statemets-Exercise-2\Selection-Statemets-Exercise-2\obj\Debug\net9.0\ref\Selection-Statemets-Exercise-2.dll
