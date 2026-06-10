@@ -50,6 +50,7 @@ class Program
             default:
                 Console.WriteLine("Interesting, Bet you're good at it!");
                 break; 
+            
         }
 
     }
